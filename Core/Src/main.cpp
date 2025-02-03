@@ -1,5 +1,6 @@
 #include "main.h"
 #include "system_clock.h"
+#include "usart.h"
 
 int main()
 {

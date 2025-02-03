@@ -38,6 +38,7 @@ target_sources(${CMAKE_PROJECT_NAME} PRIVATE
     "Core/Src/sysmem.c"
     "Core/Src/syscalls.c"
     "Core/Src/main.cpp"
+    "Core/Src/usart.c"
 )
 
 target_include_directories(${CMAKE_PROJECT_NAME} PRIVATE
